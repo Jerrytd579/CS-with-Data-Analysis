@@ -1,9 +1,6 @@
-# CS-with-Data-Analysis
-
-<h1>
-<b>CS/Data Analysis</b> - Bixler
-</h1>
+# CS-With-Data-Analysis
 
 <p>
-A collection of files that I have salvaged from CS With Data Analysis with Bixler
+  A collection of files that I have salvaged from CS With Data Analysis taught by Bixler.
+  Includes things from Java, Python, and R.
 </p>
